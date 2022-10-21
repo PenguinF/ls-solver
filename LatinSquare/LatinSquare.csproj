@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <FileVersion>0.1.0.0</FileVersion>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+    <Version>0.1.0</Version>
+    <Description>Latin Square library</Description>
+    <Authors>Henk Nicolai</Authors>
+    <Copyright>Copyright © 2022 - Henk Nicolai</Copyright>
+    <Summary>Latin Square library</Summary>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
