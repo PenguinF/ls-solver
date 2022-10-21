@@ -12,4 +12,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Eutherion.Common" Version="1.3.0" />
+    <PackageReference Include="Eutherion.Utilities" Version="1.3.0" />
+  </ItemGroup>
+
 </Project>
