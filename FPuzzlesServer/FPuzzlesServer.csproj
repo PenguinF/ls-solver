@@ -15,9 +15,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Eutherion.Common" Version="1.3.0" />
-    <PackageReference Include="Eutherion.Text.Json" Version="0.1.0" />
-    <PackageReference Include="Eutherion.Utilities" Version="1.3.0" />
+    <PackageReference Include="Eutherion.Common" Version="1.4.0" />
+    <PackageReference Include="Eutherion.Text.Json" Version="1.4.0" />
+    <PackageReference Include="Eutherion.Utilities" Version="1.4.0" />
     <PackageReference Include="WatsonWebsocket" Version="3.0.1" />
   </ItemGroup>
 
